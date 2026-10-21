@@ -1,0 +1,14 @@
+{
+  "name": "roofing-agent-skill",
+  "version": "1.3.1",
+  "description": "An Agent Skill with a roofer's know-how: what to ask before quoting, and how much material to order.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
